@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ModbusMonitor</string>
+    <string name="controllers_available">Available Controllers</string>
+    <string name="controllers_list_connect_button">Connnect</string>
+</resources>

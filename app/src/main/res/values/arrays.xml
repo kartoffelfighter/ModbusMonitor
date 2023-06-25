@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baud_rates">
+        <item>9600</item>
+        <item>19200</item>
+    </string-array>
+    <string-array name="databits">
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="stopbits">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="parity">
+        <item>None</item>
+        <item>Even</item>
+        <item>Odd</item>
+    </string-array>
+</resources>
